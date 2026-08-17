@@ -206,5 +206,14 @@
       "Answer for Which are the new values in staged files? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786944862.408684,
+    "completed_at": 1786944863.863233,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
