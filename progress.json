@@ -197,5 +197,14 @@
       "Wonderful! You have successfully synced the local tags with the remote tags!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786944821.212283,
+    "completed_at": 1786944824.716923,
+    "comments": [
+      "Answer for Which are the new values in staged files? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
